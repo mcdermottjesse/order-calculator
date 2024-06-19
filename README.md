@@ -1,6 +1,6 @@
 # Order Calculator
 
-Built with Vite + ReactTS + Express + NodeJS. Calculates the product total, with or without taxes. Calculates the tax amounts. Calculates the order total.
+Built with Vite + ReactTS + Express/NodeJS + MongoDB/Mongoose. Calculates the product total, with or without taxes. Calculates the tax amounts. Calculates the order total.
 
 ## Install Dependencies
 
